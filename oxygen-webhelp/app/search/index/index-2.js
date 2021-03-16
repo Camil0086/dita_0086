@@ -1,0 +1,4 @@
+define(function () {
+// Auto generated index for searching.
+return {"figure":"3*0*20","first":"0*50*-1$-1$1$4$7$d,1*2*a$g$16,2*30*1$5","from":"3*0*u","full":"3*43*-1$1$8$k$1g$1j$1t","go":"3*0*13","idea":"0*10*-1$i,1*0*l","information":"0*5*11,1*5*14,3*5*25","menu":"3*0*11","mode":"3*1*16$1f","my":"0*71*-1$-1$-1$-1$0$3$6$9$c$f$12,1*45*-1$0$3$6$9$c$f$i$15,2*30*0$4,3*0*26","new":"3*0*1p","note":"0*49*-1$-1$-1$-1$l$n$p$s$v,1*13*o$q$s$v$12","nr":"0*10*-1$j,1*0*m","open":"3*11*-1$o$1o","option":"3*0*s","optional":"3*5*12","options":"3*0*v","oxygen":"3*40*-1$3$a$h","paragraph":"0*20*-1$-1$8$b,1*1*b$e","picure":"3*0*23","point":"0*20*-1$-1$e$h,1*1*h$k","preferences":"3*0*10","reference":"2*30*2$6"};
+});

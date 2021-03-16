@@ -1,0 +1,4 @@
+define(function () {
+// Auto generated index for searching.
+return {"aexample":"2*10*-1$c","always":"3*10*-1$i","appropriate":"3*0*19","attributes":"3*0*1i","author":"3*32*4$b$17$1r","authot":"3*10*-1$q","available":"3*0*t","camil":"2*10*-1$a,3*0*22","camil_picure":"3*0*21","camil_table":"2*10*-1$9","can":"3*10*-1$f","caution":"0*10*-1$t,1*0*10","column":"2*20*-1$-1$g$h","columns":"2*10*-1$e","concept":"0*31*2$5$14,1*41*-1$2$5$8$17,3*0*28","danger":"0*0*u,1*0*11","default":"3*30*6$d","definition":"0*10*-1$k,1*0*n","display":"3*0*1e","edit":"3*0*15","editor":"3*0*14","every":"3*0*1l","example":"0*18*-1$m,1*9*p"};
+});

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="C_my_first_concept" path="Topics/C_my_first_concept.html"/>
+   <appContext helpID="T_my_first_task" path="Topics/T_my_first_task.html"/>
+   <appContext helpID="R_my_first_reference_topic"
+               path="Topics/R_my_first_reference_topic.html"/>
+   <appContext helpID="C_my_first_concept" path="Topics/C_my_second_concept.html"/>
+   <appContext helpID="C_my_first_concept" path="Topics/C_my_first_concept.html"/>
+   <appContext helpID="C_my_first_concept" path="Topics/C_my_second_concept.html"/>
+   <appContext helpID="T_my_first_task" path="Topics/T_my_first_task.html"/>
+   <appContext helpID="C_my_first_concept" path="Topics/C_my_second_concept.html"/>
+</map>
